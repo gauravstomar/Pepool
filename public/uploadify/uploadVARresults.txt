@@ -1,0 +1,15 @@
+FILE INFORMATION
+
+ userid: 2638
+
+ name:SDC12997.jpg
+
+ info:Array
+
+ thumbnail:MzY0MDUyMDMy.jpg
+
+ basepath:../images/album/
+
+ original:../images/album/original/MzY0MDUyMDMy.jpg
+
+ msql:Inserted
